@@ -1,6 +1,6 @@
 ---
-id: jonibbm-spiel
-name: Jonibbm Spiel
+id: spiel
+name: Spiel
 summary: TODO Ein Satz, was diese App macht.
 tech: []
 # repo: https://github.com/org/repo
